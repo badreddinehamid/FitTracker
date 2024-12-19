@@ -43,7 +43,7 @@ A modern fitness tracking dashboard built with React, TypeScript, and Tailwind C
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/badreddinehamid/FitTracker.git
    ```
 
 2. Install dependencies:
